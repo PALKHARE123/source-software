@@ -3,8 +3,8 @@
  
 | Field | Details |
 |-------|---------|
-| **Student Name** | Moksh Taneja |
-| **Registration Number** | 24BCE10405 |
+| **Student Name** | Pal Khare |
+| **Registration Number** | 24BCE1214 |
 | **Course** | Open Source Software (OSS NGMC) |
 | **Chosen Software** | Python Programming Language |
 | **License** | PSF License v2 |
@@ -82,7 +82,7 @@ All scripts require only a standard **bash** shell and standard Linux utilities.
  
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/Moksh071849/OSS_Audit_24BCE10405.git
+git clone https://github.com/Pal071849/OSS_Audit_24BCE10405.git
 cd OSS_AUDIT_24BCE10405
 ```
  
